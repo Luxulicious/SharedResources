@@ -1,0 +1,17 @@
+{
+    "name": "TheLuxGames.SharedResources.Editor",
+    "references": [
+        "TheLuxGames.SharedResources.Runtime",
+        "OdinSerializer"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

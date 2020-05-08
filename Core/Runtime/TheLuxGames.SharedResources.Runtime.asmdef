@@ -1,0 +1,15 @@
+{
+    "name": "TheLuxGames.SharedResources.Runtime",
+    "references": [
+        "GUID:41cc5fbfaa3818d43943201e48835069",
+        "GUID:65d9a6abfadb286e617e6cf760043729"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true, 
+    "defineConstraints": [],
+    "versionDefines": []
+}
