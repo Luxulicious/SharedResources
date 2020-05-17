@@ -1,4 +1,5 @@
-﻿using TheLuxGames.SharedResources.Time;
+﻿#if UNITY_EDITOR
+using TheLuxGames.SharedResources.Time;
 using UnityEditor;
 using UnityEngine;
 
@@ -30,3 +31,4 @@ public class TimerEditor : Editor
         }
     }
 }
+#endif
