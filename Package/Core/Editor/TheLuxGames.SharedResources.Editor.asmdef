@@ -1,8 +1,7 @@
 {
     "name": "TheLuxGames.SharedResources.Editor",
     "references": [
-        "TheLuxGames.SharedResources.Runtime",
-        "OdinSerializer"
+        "Sirenix.OdinInspector.CompatibilityLayer.Editor"
     ],
     "includePlatforms": [
         "Editor"
@@ -13,5 +12,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }

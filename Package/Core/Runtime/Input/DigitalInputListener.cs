@@ -3,7 +3,7 @@ using SOA.Base;
 using SOA.Common.Primitives;
 using UnityEngine;
 using UnityEngine.Events;
-using SerializedMonoBehaviour = OdinSerializer.SerializedMonoBehaviour;
+using Sirenix.Serialization;
 
 namespace TheLuxGames.SharedResources.Input
 {
